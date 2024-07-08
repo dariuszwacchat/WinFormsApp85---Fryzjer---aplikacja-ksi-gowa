@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LogowanieForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Przerwy\PrzerwaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RodzajeUslug\RodzajUslugiCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Uslugi\UslugaCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Uslugi\UslugaEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Uzytkownicy\UserCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Uzytkownicy\UserEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

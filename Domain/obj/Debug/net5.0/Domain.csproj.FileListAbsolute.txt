@@ -1,0 +1,15 @@
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\bin\Debug\net5.0\Framework.dll
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\bin\Debug\net5.0\Framework.pdb
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\M\source\repos\WinFormsApp85 - Fryzjer - aplikacja księgowa\Domain\obj\Debug\net5.0\Domain.pdb
